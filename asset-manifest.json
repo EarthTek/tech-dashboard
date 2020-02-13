@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/tech-dashboard/static/css/main.700df45b.chunk.css",
-    "main.js": "/tech-dashboard/static/js/main.89f320eb.chunk.js",
-    "main.js.map": "/tech-dashboard/static/js/main.89f320eb.chunk.js.map",
+    "main.css": "/tech-dashboard/static/css/main.2bfadb95.chunk.css",
+    "main.js": "/tech-dashboard/static/js/main.1d6b7d7b.chunk.js",
+    "main.js.map": "/tech-dashboard/static/js/main.1d6b7d7b.chunk.js.map",
     "runtime-main.js": "/tech-dashboard/static/js/runtime-main.5363d080.js",
     "runtime-main.js.map": "/tech-dashboard/static/js/runtime-main.5363d080.js.map",
     "static/css/2.04daa6cc.chunk.css": "/tech-dashboard/static/css/2.04daa6cc.chunk.css",
-    "static/js/2.894c32dd.chunk.js": "/tech-dashboard/static/js/2.894c32dd.chunk.js",
-    "static/js/2.894c32dd.chunk.js.map": "/tech-dashboard/static/js/2.894c32dd.chunk.js.map",
+    "static/js/2.9ea2968b.chunk.js": "/tech-dashboard/static/js/2.9ea2968b.chunk.js",
+    "static/js/2.9ea2968b.chunk.js.map": "/tech-dashboard/static/js/2.9ea2968b.chunk.js.map",
     "index.html": "/tech-dashboard/index.html",
-    "precache-manifest.14d88c214d92f2e95261bc9a7873f5b0.js": "/tech-dashboard/precache-manifest.14d88c214d92f2e95261bc9a7873f5b0.js",
+    "precache-manifest.3e78138dfd002df24241617dc4a498ff.js": "/tech-dashboard/precache-manifest.3e78138dfd002df24241617dc4a498ff.js",
     "service-worker.js": "/tech-dashboard/service-worker.js",
     "static/css/2.04daa6cc.chunk.css.map": "/tech-dashboard/static/css/2.04daa6cc.chunk.css.map",
-    "static/css/main.700df45b.chunk.css.map": "/tech-dashboard/static/css/main.700df45b.chunk.css.map",
-    "static/js/2.894c32dd.chunk.js.LICENSE": "/tech-dashboard/static/js/2.894c32dd.chunk.js.LICENSE",
+    "static/css/main.2bfadb95.chunk.css.map": "/tech-dashboard/static/css/main.2bfadb95.chunk.css.map",
+    "static/js/2.9ea2968b.chunk.js.LICENSE": "/tech-dashboard/static/js/2.9ea2968b.chunk.js.LICENSE",
     "static/media/index.css": "/tech-dashboard/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.5363d080.js",
     "static/css/2.04daa6cc.chunk.css",
-    "static/js/2.894c32dd.chunk.js",
-    "static/css/main.700df45b.chunk.css",
-    "static/js/main.89f320eb.chunk.js"
+    "static/js/2.9ea2968b.chunk.js",
+    "static/css/main.2bfadb95.chunk.css",
+    "static/js/main.1d6b7d7b.chunk.js"
   ]
 }
